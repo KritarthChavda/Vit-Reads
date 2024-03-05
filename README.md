@@ -1,16 +1,3 @@
-# vitreads
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vit Reads is an app that we made for the UnPlugged Hackathon organized by our university Vit, Bhopal. The hackathon had almost 120 teams with 5 member each. The theme was to make to life of students + faculties better and easy, and so we developed Vit Reads. 
