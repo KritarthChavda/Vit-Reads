@@ -6,7 +6,7 @@ import 'package:vitreads/components/news_list_tile.dart';
 import 'package:vitreads/models/news_model.dart';
 import 'package:vitreads/screens/emergency.dart';
 import 'package:vitreads/screens/profile.dart';
-import 'package:vitreads/screens/types_scren.dart';
+import 'package:vitreads/screens/types_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

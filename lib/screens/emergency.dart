@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vitreads/screens/profile.dart';
-import 'package:vitreads/screens/types_scren.dart';
+import 'package:vitreads/screens/types_screen.dart';
 
 class EmergencyScreen extends StatefulWidget {
   const EmergencyScreen({super.key});

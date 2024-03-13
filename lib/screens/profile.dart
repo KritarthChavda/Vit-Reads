@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vitreads/screens/home_screen.dart';
-import 'package:vitreads/screens/types_scren.dart';
+import 'package:vitreads/screens/types_screen.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
